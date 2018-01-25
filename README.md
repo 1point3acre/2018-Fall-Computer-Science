@@ -1,7 +1,7 @@
 # 2018-Fall-Computer-Science
 The admission result of perspective students for 2018 Fall
 
-## <font color=red>PhD Application</font>
+<font color=red>PhD Application</font>
 
 | Date | University | Status | Username |
 | ----------- |----------- | ----------- |----------- |
@@ -16,3 +16,11 @@ The admission result of perspective students for 2018 Fall
 | Date | University | Status | Username |
 | ----------- |----------- | ----------- |----------- |
 |2017.11.09|SCU|AD|[johnnykwwang](http://www.1point3acres.com/bbs/forum.php?mod=viewthread&tid=303393&extra=page%3D2%26filter%3Dsortid%26sortid%3D164%26searchoption%5B3004%5D%5Bvalue%5D%3D11%26searchoption%5B3004%5D%5Btype%5D%3Dradio%26searchoption%5B3005%5D%5Bvalue%5D%3D1%26searchoption%5B3005%5D%5Btype%5D%3Dradio%26searchoption%5B3001%5D%5Bvalue%5D%3D1%26searchoption%5B3001%5D%5Btype%5D%3Dradio%26sortid%3D164)|
+
+
+
+
+
+### Acknowledgement
+All data are from bbs of [1point3acres](http://www.1point3acres.com/bbs/)
+The full list can also been viewed in [infosite](http://www.1point3acres.com/bbs/thread-312225-1-1.html)
