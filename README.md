@@ -1,7 +1,7 @@
 # 2018-Fall-Computer-Science
 The admission result of perspective students for 2018 Fall
 
-<font color=red>PhD Application</font>
+## PhD Application
 
 | Date | University | Status | Username |
 | ----------- |----------- | ----------- |----------- |
